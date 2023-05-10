@@ -43,7 +43,7 @@
     <li>Projeyi başlatın: npm start</li>
 </ul>
 
-<a href=""><h3>Canlı Önizleme</h3></a>
+<a href="https://my-portfolio-website01.netlify.app"><h3>Canlı Önizleme</h3></a>
 </br>
 <img src="./src/assets/work/screen.gif" alt="">
 
