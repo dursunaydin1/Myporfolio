@@ -44,8 +44,8 @@
 </ul>
 
 <a href="https://my-portfolio-website01.netlify.app">
-  <h3>Canlı Önizleme</h3></br>
-  https://my-portfolio-website01.netlify.app
+  Canlı Önizleme
+ 
 </a>
 </br>
 <img src="./src/assets/work/screen.gif" alt="">
